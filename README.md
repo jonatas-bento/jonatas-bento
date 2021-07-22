@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Moovebike**
 
-- 🌱 I’m currently learning **Express, React**
+- 🌱 I’m currently learning **Express, React, ASP.NET Core and Angular**
 
 - 📫 How to reach me **pr.jmbento@outlook.com**
 
